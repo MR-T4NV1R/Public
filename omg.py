@@ -1,3 +1,3 @@
-import public
+import omg
  
-public.login()
+Omg.login()
