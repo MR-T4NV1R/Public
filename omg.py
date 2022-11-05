@@ -1,3 +1,0 @@
-import omg
- 
-Omg.login()
